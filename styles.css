@@ -1,0 +1,7 @@
+.fill {
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+    background-image: url('https://static1.businessinsider.com/image/5936f30779474c462f8b5c28/nestled-between-berkeley-and-oakland-the-micro-hood-sits-in-an-area-thats-said-to-be-closer-to-san-francisco-than-san-francisco-is-it-takes-about-20-minutes-to-travel-from-the-citys-downtown-to-berkeleys-ashby-station-a-15-minute-walk-from-the-heart-of-bushrod.jpg');
+    height: 100vh;
+}
